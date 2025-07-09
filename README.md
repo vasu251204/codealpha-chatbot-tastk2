@@ -52,7 +52,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/your-username/codealpha_task-chatbot.git
+git clone https://github.com/vasu251204/codealpha-chatbot-tastk2
 cd -chatbot
 
 
